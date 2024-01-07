@@ -1,0 +1,11 @@
+{
+  "name": "backendform",
+  "version": "1.0.0",
+  "description": "user registration back-end",
+  "main": "server.js",
+  "scripts": {
+   "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
