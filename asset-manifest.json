@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/athlx/static/css/main.eefc237f.css",
+    "main.js": "/athlx/static/js/main.56c1de7b.js",
+    "static/media/plana.jpg": "/athlx/static/media/plana.742c19194ce284875271.jpg",
+    "static/media/back.jpg": "/athlx/static/media/back.0ccb87698e2f729139b7.jpg",
+    "static/media/home.jpg": "/athlx/static/media/home.bdee0023f7a411e656c8.jpg",
+    "static/media/about.jpg": "/athlx/static/media/about.bcb66405ca9548915bd6.jpg",
+    "static/media/planb.jpg": "/athlx/static/media/planb.080b8fcc9cbb047e869f.jpg",
+    "static/media/planc.jpg": "/athlx/static/media/planc.a99d57e5ae7467233388.jpg",
+    "index.html": "/athlx/index.html",
+    "main.eefc237f.css.map": "/athlx/static/css/main.eefc237f.css.map",
+    "main.56c1de7b.js.map": "/athlx/static/js/main.56c1de7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eefc237f.css",
+    "static/js/main.56c1de7b.js"
+  ]
+}
